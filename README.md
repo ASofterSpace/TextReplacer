@@ -1,6 +1,6 @@
 # TextReplacer
 
-**Class:** A Softer Space Internal
+**Class:** Utility
 
 **Language:** Java
 
